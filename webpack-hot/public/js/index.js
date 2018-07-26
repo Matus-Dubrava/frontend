@@ -1,3 +1,4 @@
-import '../css/styles.css'
+import '../css/styles.css';
+import '../../views/index.html';
 
-console.log('hi');
+console.log('hello');
