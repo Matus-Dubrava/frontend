@@ -36,9 +36,4 @@ module.exports = {
       }
     ]
   }
-  // plugins: [
-  //   new webpack.HotModuleReplacementPlugin({
-  //     multistep: true
-  //   })
-  // ]
 };
